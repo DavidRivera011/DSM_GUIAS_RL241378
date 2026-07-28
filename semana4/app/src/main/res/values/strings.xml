@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Recursos</string>
+
+    <string name="welcome_message">Bienvenido a mi app</string>
+    <string name="search">Buscar</string>
+    <string-array name="dish_names">
+        <item>Hamburguesa Clásica</item>
+        <item>Papas Fritas</item>
+        <item>Taco de Pollo</item>
+        <item>Refresco</item>
+        <item>Limonada</item>
+        <item>Naranjada</item>
+        <item>Margarita</item>
+        <item>Fanta</item>
+        <item>Pizza</item>
+        <item>Subway</item>
+        <item>Sushi</item>
+    </string-array>
+    <string-array name="dish_descriptions">
+        <item>Jugosa hamburguesa con queso, lechuga y tomate.</item>
+        <item>Crujientes papas doradas, servidas calientes.</item>
+        <item>Taco de pollo sazonado con cebolla y cilantro.</item>
+        <item>Refresco de 350 ml.</item>
+        <item>Fresco de limon</item>
+        <item>Fresco de naranja</item>
+        <item>Margarita</item>
+        <item>Fanta</item>
+        <item>Pizza</item>
+        <item>Subway</item>
+        <item>Sushi</item>
+    </string-array>
+    <string-array name="dish_prices">
+        <item>$3.50</item>
+        <item>$1.50</item>
+        <item>$2.00</item>
+        <item>$0.80</item>
+        <item>$0.80</item>
+        <item>$0.80</item>
+        <item>$2.50</item>
+        <item>$0.80</item>
+        <item>$5.00</item>
+        <item>$3.50</item>
+        <item>$3.50</item>
+    </string-array>
+    <!-- Nombres de las imágenes (sin extensión) -->
+    <string-array name="dish_images">
+        <item>hamburguesa</item>
+        <item>papas</item>
+        <item>taco</item>
+        <item>refresco</item>
+        <item>limonada</item>
+        <item>naranjada</item>
+        <item>margarita</item>
+        <item>fanta</item>
+        <item>pizza</item>
+        <item>subway</item>
+        <item>sushi</item>
+    </string-array>
+    <string-array name="dish_categories">
+        <item>Platos fuertes</item>
+        <item>Entradas</item>
+        <item>Platos fuertes</item>
+        <item>Bebidas</item>
+        <item>Bebidas</item>
+        <item>Bebidas</item>
+        <item>Bebidas</item>
+        <item>Bebidas</item>
+        <item>Platos fuertes</item>
+        <item>Platos fuertes</item>
+        <item>Platos fuertes</item>
+    </string-array>
+    <string-array name="tab_categories">
+        <item>Todos</item>
+        <item>Entradas</item>
+        <item>Platos fuertes</item>
+        <item>Bebidas</item>
+    </string-array>
+    <plurals name="results_count">
+        <item quantity="one">%d platillo encontrado</item>
+        <item quantity="other">%d platillos encontrados</item>
+    </plurals>
+</resources>

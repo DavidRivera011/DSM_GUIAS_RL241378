@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.Catalogo"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryColorNight</item>
+        <item name="colorPrimaryVariant">@color/primaryDarkColorNight</item>
+        <item name="colorSecondary">@color/accentColorNight</item>
+        <item name="colorSurface">@color/cardBackgroundNight</item>
+        <item name="colorOnSurface">@color/textPrimaryNight</item>
+        <item
+            name="android:textColorSecondary">@color/textSecondaryNight</item>
+    </style>
+</resources>
