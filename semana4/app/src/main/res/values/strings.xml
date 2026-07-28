@@ -15,6 +15,10 @@
         <item>Pizza</item>
         <item>Subway</item>
         <item>Sushi</item>
+        <item>Nachos</item>
+        <item>Baos</item>
+        <item>Ceviche</item>
+        <item>Pan con Ajo</item>
     </string-array>
     <string-array name="dish_descriptions">
         <item>Jugosa hamburguesa con queso, lechuga y tomate.</item>
@@ -28,6 +32,10 @@
         <item>Pizza</item>
         <item>Subway</item>
         <item>Sushi</item>
+        <item>Nachos</item>
+        <item>Baos</item>
+        <item>Ceviche</item>
+        <item>Pan con Ajo</item>
     </string-array>
     <string-array name="dish_prices">
         <item>$3.50</item>
@@ -41,6 +49,10 @@
         <item>$5.00</item>
         <item>$3.50</item>
         <item>$3.50</item>
+        <item>$1.50</item>
+        <item>$1.50</item>
+        <item>$1.50</item>
+        <item>$1.50</item>
     </string-array>
     <!-- Nombres de las imágenes (sin extensión) -->
     <string-array name="dish_images">
@@ -55,6 +67,10 @@
         <item>pizza</item>
         <item>subway</item>
         <item>sushi</item>
+        <item>nachos</item>
+        <item>bao</item>
+        <item>ceviche</item>
+        <item>panajo</item>
     </string-array>
     <string-array name="dish_categories">
         <item>Platos fuertes</item>
@@ -68,6 +84,10 @@
         <item>Platos fuertes</item>
         <item>Platos fuertes</item>
         <item>Platos fuertes</item>
+        <item>Entradas</item>
+        <item>Entradas</item>
+        <item>Entradas</item>
+        <item>Entradas</item>
     </string-array>
     <string-array name="tab_categories">
         <item>Todos</item>
