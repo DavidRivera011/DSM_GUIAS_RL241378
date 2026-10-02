@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtIdDB" type="id" />
+    <item name="txtId" type="id" />
+    <item name="txtNombre" type="id" />
+    <item name="txtPrecio" type="id" />
+    <item name="txtCantidad" type="id" />
+    <item name="cmbCategorias" type="id" />
+    <item name="btnAgregar" type="id" />
+    <item name="btnActualizar" type="id" />
+    <item name="btnEliminar" type="id" />
+    <item name="btnBuscar" type="id" />
+</resources>
